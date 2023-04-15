@@ -23,7 +23,7 @@ npm set registry <NPM-repository-address>:4873/
 ##### yarn
 
 ```
-yarn config set registry http://192.168.1.27:4873/
+yarn config set registry <NPM-repository-address>:4873/
 ```
 
 ##### yarn berry
